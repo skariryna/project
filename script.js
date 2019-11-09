@@ -27,4 +27,3 @@ let sumOnDay = (Number(budgetValue) / 30);
 alert('Бюджет на 1 день: ' + sumOnDay );
 
 console.log(appData);
-console.log(appData);
